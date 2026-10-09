@@ -1,7 +1,7 @@
 # 2026_Heleven_etal_Flavins
 
 This page contains the Bioinformatics supplementary material
-for the manuscript __Heleven et al, 2026__ (submitted).
+for the manuscript __Heleven et al, bioRxiv, 2026__ (submitted).
 
 > "*Flavins in Focus: Vitamin B<sub>2</sub> as a Metabolic Keystone*
 > *for Neuronal Repair in Regenerating Planarians.*"
