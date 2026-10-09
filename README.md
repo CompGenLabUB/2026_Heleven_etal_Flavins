@@ -17,7 +17,7 @@ Essential vitamins are indispensable metabolic cofactors, yet whether
 their availability is spatially organized to support local metabolic
 demands within regenerative tissues remains largely unknown. Here, we
 identify a previously unrecognized flavin-rich cellular network that
-spatially organizes vitamin B<sub>_2</sub> metabolism during regeneration in
+spatially organizes vitamin B<sub>2</sub> metabolism during regeneration in
 the planarian *Schmidtea mediterranea*. Using endogenous flavin
 autofluorescence as a label-free *in vivo* metabolic readout, we show
 that this network consists of elongated cells that form longitudinal
