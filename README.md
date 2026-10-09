@@ -11,7 +11,7 @@ for the manuscript __Heleven et al, 2026__ (submitted).
 >
 > 1. Centre for Environmental Sciences; Zoology: Biodiversity and Toxicology, Hasselt University; Diepenbeek, Belgium.
 > 2. Institute of Biomedicine, University of Barcelona; Barcelona; Catalonia, Spain.
-> 3. 3Department of Genetics, Microbiology & Statistics; Faculty of Biology; University of Barcelona; Barcelona, Catalonia, Spain.
+> 3. Department of Genetics, Microbiology & Statistics; Faculty of Biology; University of Barcelona; Barcelona, Catalonia, Spain.
 
 We really apreciate if you cite this paper when using any of the referenced materials.
 
