@@ -5,8 +5,13 @@ for the manuscript __Heleven et al, 2026__ (submitted).
 
 > "*Flavins in Focus: Vitamin B<sub>2</sub> as a Metabolic Keystone*
 > *for Neuronal Repair in Regenerating Planarians.*"
-> Martijn Heleven, Rik Maes, Josep F. Abril, Vincent Jaenen, Robbe Voglar, 
-> Charlotte Segnana, Tom Artois, Nelly Saenen, Francesc Cebrià, Karen Smeets
+>
+> Martijn Heleven<sup>1*</sup>, Vincent Jaenen<sup>1</sup>, Rik Maes<sup>1</sup>, Josep F. Abril<sup>l,3</sup>, Robbe Voglar<sup>1</sup>,
+> Charlotte Segnana<sup>1</sup>, Tom Artois<sup>1</sup>, Nelly D. Saenen<sup>1</sup>, Francesc Cebrià<sup>3</sup>, Karen Smeets<sup>1</sup>
+>
+> 1. Centre for Environmental Sciences; Zoology: Biodiversity and Toxicology, Hasselt University; Diepenbeek, Belgium.
+> 2. Institute of Biomedicine, University of Barcelona; Barcelona; Catalonia, Spain.
+> 3. 3Department of Genetics, Microbiology & Statistics; Faculty of Biology; University of Barcelona; Barcelona, Catalonia, Spain.
 
 We really apreciate if you cite this paper when using any of the referenced materials.
 
